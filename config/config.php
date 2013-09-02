@@ -23,7 +23,7 @@
  * PHP version 5
  * @copyright  Christopher Bölter 2013
  * @author     Christopher Bölter <http://www.cogizz.de>
- * @package    Frontend
+ * @package    RedirectLanguage
  * @license    LGPL
  * @filesource
  */

@@ -40,7 +40,6 @@
 class PageError404_RedirectLanguage extends PageError404
 {
 
-
 	/**
 	 * construct
 	 */
